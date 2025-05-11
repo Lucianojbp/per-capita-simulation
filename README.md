@@ -1,14 +1,15 @@
 # per-capita-simulation
-For the simulation of breakfast and lunch/dinner meal data:
+O repositório nomeado per-capita-simulation é o local para acesso aos códigos de simulação de per capitas de ingredientes e nutrientes.
 
-In the comment "Problem parameters", name your menus and provide the mean and standard deviation for each menu item, following the initial order starting from row and column 0.
-Note: Your menu portfolio may include more or fewer preparations. All preparations must be named and described.
+O arquivo nomeado “simul_04_card_macro_AJ-checkpoint” refere-se a simulação de per capita de ingredientes e nutrientes baseado em quatro diferentes cardápios de desjejum.
 
-In the comment "The composition refers to the names of the menu components", specify the food items that make up each menu preparation.
+O arquivo nomeado “simul_20_card_macro_Desj-checkpoint” refere-se a simulação de per capita de ingredientes e nutrientes baseado em vinte diferentes cardápios almoço/jantar.
 
-In the comment: "Converts the menu component into its macronutrients:
-Carbohydrates (g), lipids (g), protein (g), fiber (g), sodium (g), calories (kcal), saturated fat (g), added sugar (g)
-Tables are standardized per 100 grams", provide the nutritional composition corresponding to the mean values listed in the "Problem parameters" section.
-Note: The nutritional composition must be provided for all ingredients included in the preparation.
+No comentário “Parâmetros do problema” nomeie seus cardápios e informe a média e o desvio-padrão conforme a ordem iniciada, a partir da linha e coluna 0. Obs.: Seu portifólio de cardápios pode ter mais ou menos preparações. Nomeie e informe todas as suas preparações.
 
-In code cell [8], under "qtd_interacoes", specify the desired number of samples to be generated.
+No comentário “A composição é o nome dos componentes do cardápio” informe os alimentos componentes de cada item do cardápio.
+
+No comentário: “Converte o componente do cardápio em seus macro-nutrientes
+carboidratos (g), lipídio (g), proteína (g), fibras (g), sódio (g), calorias (cal), gorduras saturadas (g), açúcar adicionado (g). As tabelas estão padronizadas em 100 gramas: inserir a composição nutricional relativa a média apresentada no comentário “Parâmetros do problema”. Obs: a composição nutricional deve ser informada relativa a todos os ingredientes componentes da preparação.
+No código [8] em “qtd_interacoes” informar o número desejado de amostras a serem realizadas. 
+
