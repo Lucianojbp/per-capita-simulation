@@ -13,3 +13,4 @@ No comentário: “Converte o componente do cardápio em seus macro-nutrientes
 carboidratos (g), lipídio (g), proteína (g), fibras (g), sódio (g), calorias (cal), gorduras saturadas (g), açúcar adicionado (g). As tabelas estão padronizadas em 100 gramas: inserir a composição nutricional relativa a média apresentada no comentário “Parâmetros do problema”. Obs: a composição nutricional deve ser informada relativa a todos os ingredientes componentes da preparação.
 No código [8] em “qtd_interacoes” informar o número desejado de amostras a serem realizadas. 
 
+Para a composição nutricional da bebida café (infusão a 10%) foi considerada as seguintes taxas de absorção: carboidratos: 0.023; lipídios: 0.008; proteínas: 0.048; fibra alimentar: 0; sódio: 1; energia (kcal): 0,021; gordura saturada: 0 (Unicamp, 2011).
